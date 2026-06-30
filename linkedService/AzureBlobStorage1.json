@@ -5,7 +5,8 @@
 		"annotations": [],
 		"type": "AzureBlobStorage",
 		"typeProperties": {
-			"sasUri": "sp=r&st=2026-06-30T13:14:41Z&se=2026-06-30T21:29:41Z&spr=https&sv=2026-02-06&sr=b&sig=ol5ul6Q3PreEGgu0dGuKBt5XjbMoDU0AXvJYgpL79t8%3D?https://csvanalysis.blob.core.windows.net/csv/us-counties.csv?sp=r&st=2026-06-30T13:14:41Z&se=2026-06-30T21:29:41Z&spr=https&sv=2026-02-06&sr=b&sig=ol5ul6Q3PreEGgu0dGuKBt5XjbMoDU0AXvJYgpL79t8%3D"
+			"sasUri": "https://csvanalysis.blob.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEQwQkIyMzU5LTdBMEItNDM5Ny05NURCLUNENDYwQ0VBMzI3Nl9lNDc1YTg4OS1iZGQzLTRlYTUtYmZlNy02YmFjYWY1NmQ5ZjciDQp9"
 		}
 	}
 }
